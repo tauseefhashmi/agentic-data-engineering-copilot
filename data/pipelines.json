@@ -1,0 +1,16 @@
+{
+  "customer_orders_daily": {
+    "status": "failed",
+    "last_success": "2026-08-22T03:12:00Z",
+    "logs": [
+      "03:17:14 ERROR column customer_segment not found",
+      "03:17:14 ERROR SELECT customer_segment FROM staging.customer_orders",
+      "03:17:15 INFO upstream ingestion completed"
+    ]
+  },
+  "product_inventory_hourly": {
+    "status": "healthy",
+    "last_success": "2026-08-23T14:00:00Z",
+    "logs": ["14:00:01 INFO completed 18,421 rows"]
+  }
+}
