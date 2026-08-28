@@ -43,6 +43,8 @@ MCP Server exposes tools:
 - create_remediation_ticket
 ```
 
+## Important Advise: Please put in your API KEY(OPENAI_API_KEY=) in the ".env.example" file
+
 ## Quick start
 
 ```powershell
